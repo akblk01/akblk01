@@ -27,11 +27,11 @@
 <br/>
 
 
-<detail><summary>:blub: Github Stats<summary/><img src="https://github-readme-stats.vercel.app/api?username=akblk01&theme=tokyonight"><detail/>
+<detail><summary> Github Stats<summary/><img src="https://github-readme-stats.vercel.app/api?username=akblk01&theme=tokyonight"><detail/>
 <br/>
 <br/>
 <br/>
-<detail><summary>:blub: Most Used Languages<summary/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akblk01&layout=compact"><detail/>
+<detail><summary> Most Used Languages<summary/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akblk01&layout=compact"><detail/>
 
 
 [linkedin]: linkedin.com/in/kadir-akbalik/
